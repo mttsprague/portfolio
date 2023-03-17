@@ -239,7 +239,7 @@ button:focus,
     }
 
     100% {
-        fill: #f76414
+        fill: #f76414;
     }
 }
 
@@ -253,7 +253,7 @@ button:focus,
     }
 
     to {
-        transform: translate(200px, 50px)
+        transform: translate(200px, 50px);
     }
 }
 
